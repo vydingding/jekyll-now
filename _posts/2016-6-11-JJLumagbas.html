@@ -1,0 +1,14 @@
+---
+layout: post
+---
+<html>
+<body>
+<h1> JJLumagbas</h1>
+<p>My email address is: </p>jjlumagbas@gmail.com
+<h3> Publications: </h3>
+<ul>{% for Name in site.data.JJLumagbas%}
+<li>{{ Name.Name }}-{{ Name.Published }}</li>
+{% endfor %}
+</ul>
+</body>
+</html>
