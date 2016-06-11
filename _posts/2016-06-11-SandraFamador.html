@@ -1,0 +1,13 @@
+---
+layout: post
+---
+<html>
+<body>
+<p>My email address is: </p>sandaafamador@gmail.com
+<h3> Publications: </h3>
+<ul>{% for Name in site.data.SandraFamador %}
+<li>{{ Name.Name }}-{{ Name.Published }}</li>
+{% endfor %}
+</ul>
+</body>
+</html>
