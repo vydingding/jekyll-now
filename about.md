@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is in partial requirements for CMSC 198.2 under Mr. JJ Lumagbas. The research intends to bridge the gap between non-programming users who are experts in different fields who can provide valuable and crucial information to websites of institutions such as this.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a dummy website. For more questions, feel free to contact me in my mobile number: 09322360252 or mail me through the link below.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vydingding@up.edu.ph](mailto:vydingding@up.edu.ph)
